@@ -107,7 +107,7 @@ const GenerateQuestionsForm = () => {
         {/* Number of Questions */}
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">
-            Number of Questions (1-10)
+            Number of Questions (1-5)
           </label>
           <input
             type="number"
